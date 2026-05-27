@@ -30,7 +30,7 @@ public class BookSugestionSystem {
                 }
                 while (true) {
                     System.out.println(getSuggestion(books, random));
-                    System.out.print("(Yes/No): ");
+                    System.out.print("Do you want to continue: (Yes/No): ");
                     String answer = input.nextLine();
                    
                         break; 
