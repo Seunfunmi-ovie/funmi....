@@ -84,5 +84,5 @@ def main():
     print("\nYour total score is:", score)
 
 
-if __name__ == "__main__":
-    main()
+
+main()
